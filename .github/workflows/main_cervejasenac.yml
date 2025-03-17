@@ -65,4 +65,4 @@ jobs:
           app-name: 'CervejaSenac'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_348A93B064EC42C5B0D577E052B10CFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E19D93802BC4A389388F70374360740 }}
